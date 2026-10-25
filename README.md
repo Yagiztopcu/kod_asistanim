@@ -1,7 +1,6 @@
 # kod_asistanim yağız topçu
 ## projenin amacı:kullanıcılara günlük işlerinde  hesaplama selamlama yardımcı olacak bir dijital asistan tasarlamak 
-## projenin hedefleri:bir asistanın ilerleyen zamanlarda hangi özellikleri kazanacağını 
-akıllı menü 
+## projenin hedefleri:bir asistanın ilerleyen zamanlarda hangi özellikleri kazanacağını  
 veri saklama 
 BAŞLA
 

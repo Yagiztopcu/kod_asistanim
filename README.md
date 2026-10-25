@@ -9,6 +9,6 @@ BAŞLA
         Yazdir("Tekrar hoş geldin, " + Kullanici_Adi)
     DEGILSE
         Kullanici_Adi = Kullanicidan_Al("Adın nedir?")
-        Hafiyaya_Kaydet("Kullanici_Adi", Kullanici_Adi)
+        Hafizaya_Kaydet("Kullanici_Adi", Kullanici_Adi)
         Yazdir("Tanıştığımıza memnun oldum, " + Kullanici_Adi)
         BİTİR

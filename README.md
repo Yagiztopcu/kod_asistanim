@@ -1,6 +1,6 @@
 # kod_asistanim yağız topçu
 ## projenin amacı:kullanıcılara günlük işlerinde  hesaplama selamlama yardımcı olacak bir dijital asistan tasarlamak 
-## projenin hedefleri:bir asistanın ilerleyen zamanlarda hangi özellikleri kazanacağını  
+## projenin hedefleri:bir asistanın ilerleyen zamanlarda hangi özellikleri kazanacağını veri saklama
 veri saklama 
 BAŞLA
     // 1. VERİ SAKLAMA KONTROLÜ

@@ -3,7 +3,6 @@
 ## projenin hedefleri:bir asistanın ilerleyen zamanlarda hangi özellikleri kazanacağını  
 veri saklama 
 BAŞLA
-
     // 1. VERİ SAKLAMA KONTROLÜ
     EGER Hafizada_Kullanici_Adi_Var_Mi() ISE
         Kullanici_Adi = Hafizadan_Oku("Kullanici_Adi")
